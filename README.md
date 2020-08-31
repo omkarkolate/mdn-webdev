@@ -1,2 +1,2 @@
 # mdn-webdev
-Created with CodeSandbox
+MDN Web development tutorial
